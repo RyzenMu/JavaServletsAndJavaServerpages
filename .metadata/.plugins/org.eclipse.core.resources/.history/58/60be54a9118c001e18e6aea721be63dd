@@ -1,0 +1,12 @@
+package com.addTwoNumbers;
+
+import javax.servlet.http.HttpServlet;
+
+public class addServlet extends HttpServlet{
+
+	public void service() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

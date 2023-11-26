@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="doPost">
+        <property name="context-root" value="doPost"/>
+        <property name="java-output-path" value="/doPost/build/classes"/>
+    </wb-module>
+</project-modules>
